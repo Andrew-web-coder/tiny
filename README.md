@@ -1,1 +1,1 @@
-Hey there 1.0.5
+Hey there 1.0.6
