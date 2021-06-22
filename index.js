@@ -1,4 +1,4 @@
-//3
+//5
 module.exports = function tiny(string) {
   if (typeof string !== "string") {
 	throw new TypeError("Tiny wants a string!");
