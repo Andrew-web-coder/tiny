@@ -1,7 +1,7 @@
 {
   "name": "andrew-tiny",
-  "version": "1.0.1-alpha.1",
-  "public" : true,
+  "version": "1.0.1-alpha.2",
+  "public": true,
   "description": "",
   "main": "index.js",
   "scripts": {
